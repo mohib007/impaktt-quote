@@ -1,0 +1,517 @@
+# Copyright (C) 2018 IMPAKTT
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: IMAPKTT ERP - QUOTE 1.0.1\n"
+"Report-Msgid-Bugs-To: https://impaktt.com/\n"
+"POT-Creation-Date: 2018-04-18 02:34:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: erp-quote.php:101
+msgid ""
+"<strong>Error:</strong> <a href=\"%s\">IMAPKTT ERP</a> Plugin is required to use "
+"ERP quote plugin."
+msgstr ""
+
+#: erp-quote.php:110
+msgid ""
+"<strong>Error:</strong> <a href=\"%s\">WooCommerce</a> Plugin is required "
+"to use ERP quote plugin."
+msgstr ""
+
+#: erp-quote.php:129
+msgid "You need to install IMAPKTT main plugin to use this addon"
+msgstr ""
+
+#: erp-quote.php:135
+msgid "You need to install WooCommerce plugin to use this addon"
+msgstr ""
+
+#: includes/accounting.php:126 includes/deprecated/accounting.php:126
+msgid "ERP Accounting: Payment: %s created successfully"
+msgstr ""
+
+#: includes/accounting.php:150 includes/deprecated/accounting.php:150
+msgid "status changed to "
+msgstr ""
+
+#: includes/accounting.php:152 includes/deprecated/accounting.php:152
+msgid "created successfully and status set as "
+msgstr ""
+
+#: includes/accounting.php:157 includes/deprecated/accounting.php:157
+msgid "ERP Accounting: Invoice: %s %s awaiting payment"
+msgstr ""
+
+#: includes/accounting.php:160 includes/deprecated/accounting.php:160
+msgid "ERP Accounting: Invoice: %s %s void "
+msgstr ""
+
+#: includes/accounting.php:163 includes/deprecated/accounting.php:163
+msgid "ERP Accounting: Invoice: %s %s awaiting approval "
+msgstr ""
+
+#: includes/cli/commands.php:33
+msgid "No orders found!"
+msgstr ""
+
+#: includes/deprecated/orders.php:44 includes/orders.php:44
+msgid "CRM and Accounting synchronization are not enable for synchronization"
+msgstr ""
+
+#: includes/deprecated/orders.php:60 includes/orders.php:60
+msgid "No order founds"
+msgstr ""
+
+#: includes/deprecated/orders.php:89 includes/orders.php:89
+msgid "%d orders sync completed out of %d"
+msgstr ""
+
+#: includes/deprecated/orders.php:96 includes/orders.php:96
+msgid "All orders has been synchronized"
+msgstr ""
+
+#: includes/deprecated/orders.php:223 includes/orders.php:223
+msgid "No contact id found"
+msgstr ""
+
+#: includes/deprecated/orders.php:234 includes/orders.php:234
+msgid "Order #<a href=\"%s\">%d</a> %s and paid via <strong>%s</strong>"
+msgstr ""
+
+#: includes/deprecated/orders.php:238 includes/orders.php:238
+msgid ""
+"Placed an Order #<a href=\"%s\">%d</a> of total <strong>%s</strong> status: "
+"%s"
+msgstr ""
+
+#: includes/deprecated/segment.php:51 includes/segment.php:51
+msgid "Billing First Name"
+msgstr ""
+
+#: includes/deprecated/segment.php:55 includes/deprecated/segment.php:68
+#: includes/deprecated/segment.php:168 includes/deprecated/segment.php:181
+#: includes/deprecated/segment.php:280 includes/segment.php:55
+#: includes/segment.php:68 includes/segment.php:168 includes/segment.php:181
+#: includes/segment.php:280
+msgid "is"
+msgstr ""
+
+#: includes/deprecated/segment.php:56 includes/deprecated/segment.php:69
+#: includes/deprecated/segment.php:169 includes/deprecated/segment.php:182
+#: includes/deprecated/segment.php:281 includes/segment.php:56
+#: includes/segment.php:69 includes/segment.php:169 includes/segment.php:182
+#: includes/segment.php:281
+msgid "is not"
+msgstr ""
+
+#: includes/deprecated/segment.php:57 includes/deprecated/segment.php:70
+#: includes/deprecated/segment.php:81 includes/deprecated/segment.php:94
+#: includes/deprecated/segment.php:119 includes/deprecated/segment.php:132
+#: includes/deprecated/segment.php:143 includes/deprecated/segment.php:156
+#: includes/deprecated/segment.php:170 includes/deprecated/segment.php:183
+#: includes/deprecated/segment.php:194 includes/deprecated/segment.php:207
+#: includes/deprecated/segment.php:232 includes/deprecated/segment.php:245
+#: includes/deprecated/segment.php:256 includes/deprecated/segment.php:269
+#: includes/segment.php:57 includes/segment.php:70 includes/segment.php:81
+#: includes/segment.php:94 includes/segment.php:119 includes/segment.php:132
+#: includes/segment.php:143 includes/segment.php:156 includes/segment.php:170
+#: includes/segment.php:183 includes/segment.php:194 includes/segment.php:207
+#: includes/segment.php:232 includes/segment.php:245 includes/segment.php:256
+#: includes/segment.php:269
+msgid "contains"
+msgstr ""
+
+#: includes/deprecated/segment.php:58 includes/deprecated/segment.php:71
+#: includes/deprecated/segment.php:82 includes/deprecated/segment.php:95
+#: includes/deprecated/segment.php:120 includes/deprecated/segment.php:133
+#: includes/deprecated/segment.php:144 includes/deprecated/segment.php:157
+#: includes/deprecated/segment.php:171 includes/deprecated/segment.php:184
+#: includes/deprecated/segment.php:195 includes/deprecated/segment.php:208
+#: includes/deprecated/segment.php:233 includes/deprecated/segment.php:246
+#: includes/deprecated/segment.php:257 includes/deprecated/segment.php:270
+#: includes/segment.php:58 includes/segment.php:71 includes/segment.php:82
+#: includes/segment.php:95 includes/segment.php:120 includes/segment.php:133
+#: includes/segment.php:144 includes/segment.php:157 includes/segment.php:171
+#: includes/segment.php:184 includes/segment.php:195 includes/segment.php:208
+#: includes/segment.php:233 includes/segment.php:246 includes/segment.php:257
+#: includes/segment.php:270
+msgid "not contains"
+msgstr ""
+
+#: includes/deprecated/segment.php:59 includes/deprecated/segment.php:72
+#: includes/deprecated/segment.php:83 includes/deprecated/segment.php:96
+#: includes/deprecated/segment.php:158 includes/deprecated/segment.php:172
+#: includes/deprecated/segment.php:185 includes/deprecated/segment.php:196
+#: includes/deprecated/segment.php:209 includes/deprecated/segment.php:271
+#: includes/segment.php:59 includes/segment.php:72 includes/segment.php:83
+#: includes/segment.php:96 includes/segment.php:158 includes/segment.php:172
+#: includes/segment.php:185 includes/segment.php:196 includes/segment.php:209
+#: includes/segment.php:271
+msgid "begins with"
+msgstr ""
+
+#: includes/deprecated/segment.php:60 includes/deprecated/segment.php:73
+#: includes/deprecated/segment.php:84 includes/deprecated/segment.php:97
+#: includes/deprecated/segment.php:159 includes/deprecated/segment.php:173
+#: includes/deprecated/segment.php:186 includes/deprecated/segment.php:197
+#: includes/deprecated/segment.php:210 includes/deprecated/segment.php:272
+#: includes/segment.php:60 includes/segment.php:73 includes/segment.php:84
+#: includes/segment.php:97 includes/segment.php:159 includes/segment.php:173
+#: includes/segment.php:186 includes/segment.php:197 includes/segment.php:210
+#: includes/segment.php:272
+msgid "ends with"
+msgstr ""
+
+#: includes/deprecated/segment.php:64 includes/segment.php:64
+msgid "Billing Last Name"
+msgstr ""
+
+#: includes/deprecated/segment.php:77 includes/segment.php:77
+msgid "Billing email"
+msgstr ""
+
+#: includes/deprecated/segment.php:88 includes/segment.php:88
+msgid "Billing Phone"
+msgstr ""
+
+#: includes/deprecated/segment.php:92 includes/deprecated/segment.php:115
+#: includes/deprecated/segment.php:128 includes/deprecated/segment.php:152
+#: includes/deprecated/segment.php:205 includes/deprecated/segment.php:228
+#: includes/deprecated/segment.php:241 includes/deprecated/segment.php:265
+#: includes/segment.php:92 includes/segment.php:115 includes/segment.php:128
+#: includes/segment.php:152 includes/segment.php:205 includes/segment.php:228
+#: includes/segment.php:241 includes/segment.php:265
+msgid "has"
+msgstr ""
+
+#: includes/deprecated/segment.php:93 includes/deprecated/segment.php:116
+#: includes/deprecated/segment.php:129 includes/deprecated/segment.php:153
+#: includes/deprecated/segment.php:206 includes/deprecated/segment.php:229
+#: includes/deprecated/segment.php:242 includes/deprecated/segment.php:266
+#: includes/segment.php:93 includes/segment.php:116 includes/segment.php:129
+#: includes/segment.php:153 includes/segment.php:206 includes/segment.php:229
+#: includes/segment.php:242 includes/segment.php:266
+msgid "has not"
+msgstr ""
+
+#: includes/deprecated/segment.php:101 includes/segment.php:101
+msgid "Billing Country/State"
+msgstr ""
+
+#: includes/deprecated/segment.php:105 includes/deprecated/segment.php:117
+#: includes/deprecated/segment.php:130 includes/deprecated/segment.php:141
+#: includes/deprecated/segment.php:154 includes/deprecated/segment.php:218
+#: includes/deprecated/segment.php:230 includes/deprecated/segment.php:243
+#: includes/deprecated/segment.php:254 includes/deprecated/segment.php:267
+#: includes/segment.php:105 includes/segment.php:117 includes/segment.php:130
+#: includes/segment.php:141 includes/segment.php:154 includes/segment.php:218
+#: includes/segment.php:230 includes/segment.php:243 includes/segment.php:254
+#: includes/segment.php:267
+msgid "from"
+msgstr ""
+
+#: includes/deprecated/segment.php:106 includes/deprecated/segment.php:118
+#: includes/deprecated/segment.php:131 includes/deprecated/segment.php:142
+#: includes/deprecated/segment.php:155 includes/deprecated/segment.php:219
+#: includes/deprecated/segment.php:231 includes/deprecated/segment.php:244
+#: includes/deprecated/segment.php:255 includes/deprecated/segment.php:268
+#: includes/segment.php:106 includes/segment.php:118 includes/segment.php:131
+#: includes/segment.php:142 includes/segment.php:155 includes/segment.php:219
+#: includes/segment.php:231 includes/segment.php:244 includes/segment.php:255
+#: includes/segment.php:268
+msgid "not from"
+msgstr ""
+
+#: includes/deprecated/segment.php:111 includes/segment.php:111
+msgid "Billing Address 1"
+msgstr ""
+
+#: includes/deprecated/segment.php:124 includes/segment.php:124
+msgid "Billing Address 2"
+msgstr ""
+
+#: includes/deprecated/segment.php:137 includes/segment.php:137
+msgid "Billing City"
+msgstr ""
+
+#: includes/deprecated/segment.php:148 includes/segment.php:148
+msgid "Billing Postcode"
+msgstr ""
+
+#: includes/deprecated/segment.php:164 includes/segment.php:164
+msgid "Shipping First Name"
+msgstr ""
+
+#: includes/deprecated/segment.php:177 includes/segment.php:177
+msgid "Shipping Last Name"
+msgstr ""
+
+#: includes/deprecated/segment.php:190 includes/segment.php:190
+msgid "Shipping email"
+msgstr ""
+
+#: includes/deprecated/segment.php:201 includes/segment.php:201
+msgid "Shipping Phone"
+msgstr ""
+
+#: includes/deprecated/segment.php:214 includes/segment.php:214
+msgid "Shipping Country/State"
+msgstr ""
+
+#: includes/deprecated/segment.php:224 includes/segment.php:224
+msgid "Shipping Address 1"
+msgstr ""
+
+#: includes/deprecated/segment.php:237 includes/segment.php:237
+msgid "Shipping Address 2"
+msgstr ""
+
+#: includes/deprecated/segment.php:250 includes/segment.php:250
+msgid "Shipping City"
+msgstr ""
+
+#: includes/deprecated/segment.php:261 includes/segment.php:261
+msgid "Shipping Postcode"
+msgstr ""
+
+#: includes/deprecated/segment.php:276 includes/segment.php:276
+msgid "Order status"
+msgstr ""
+
+#: includes/deprecated/segment.php:287 includes/segment.php:287
+msgid "Order date"
+msgstr ""
+
+#: includes/deprecated/segment.php:291 includes/deprecated/segment.php:304
+#: includes/segment.php:291 includes/segment.php:304
+msgid "exactly"
+msgstr ""
+
+#: includes/deprecated/segment.php:292 includes/segment.php:292
+msgid "not"
+msgstr ""
+
+#: includes/deprecated/segment.php:293 includes/segment.php:293
+msgid "After"
+msgstr ""
+
+#: includes/deprecated/segment.php:294 includes/segment.php:294
+msgid "Before"
+msgstr ""
+
+#: includes/deprecated/segment.php:295 includes/deprecated/segment.php:307
+#: includes/segment.php:295 includes/segment.php:307
+msgid "Between"
+msgstr ""
+
+#: includes/deprecated/segment.php:300 includes/segment.php:300
+msgid "Order Total"
+msgstr ""
+
+#: includes/deprecated/segment.php:305 includes/segment.php:305
+msgid "grater"
+msgstr ""
+
+#: includes/deprecated/segment.php:306 includes/segment.php:306
+msgid "less"
+msgstr ""
+
+#: includes/deprecated/segment.php:312 includes/segment.php:312
+msgid "Ordered Product"
+msgstr ""
+
+#: includes/deprecated/segment.php:314 includes/segment.php:314
+msgid "Search a product"
+msgstr ""
+
+#: includes/deprecated/segment.php:319 includes/segment.php:319
+msgid "in"
+msgstr ""
+
+#: includes/deprecated/segment.php:320 includes/segment.php:320
+msgid "not in"
+msgstr ""
+
+#: includes/deprecated/segment.php:545 includes/segment.php:545
+msgid "Nonce Verification failed"
+msgstr ""
+
+#: includes/deprecated/views/latest-order.php:32
+#: includes/views/latest-order.php:32
+msgid "Latest order"
+msgstr ""
+
+#: includes/deprecated/views/latest-order.php:42
+#: includes/views/latest-order.php:42
+msgid "#%d"
+msgstr ""
+
+#: includes/deprecated/views/latest-order.php:55
+#: includes/views/latest-order.php:55
+msgid "No order found"
+msgstr ""
+
+#: includes/deprecated/views/purchased-products.php:31
+#: includes/views/purchased-products.php:31
+msgid "Purchased Products"
+msgstr ""
+
+#: includes/deprecated/views/purchased-products.php:58
+#: includes/views/purchased-products.php:59
+msgid "No products found"
+msgstr ""
+
+#: includes/settings.php:21
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/settings.php:38
+msgid "Synchronization"
+msgstr ""
+
+#: includes/settings.php:42
+msgid "CRM"
+msgstr ""
+
+#: includes/settings.php:46
+msgid "Accounting"
+msgstr ""
+
+#: includes/settings.php:65
+msgid "&mdash; Select Owner &mdash;"
+msgstr ""
+
+#: includes/settings.php:77
+msgid "Enable CRM Sync"
+msgstr ""
+
+#: includes/settings.php:79 includes/settings.php:145
+msgid "Yes"
+msgstr ""
+
+#: includes/settings.php:79 includes/settings.php:145
+msgid "No"
+msgstr ""
+
+#: includes/settings.php:81
+msgid "Active all crm importing functionality with WooCommerce order"
+msgstr ""
+
+#: includes/settings.php:86
+msgid "When registers as a customer"
+msgstr ""
+
+#: includes/settings.php:90
+msgid ""
+"When user register as a customer then which life stage you want to chose "
+"when contact created( default : Lead )"
+msgstr ""
+
+#: includes/settings.php:96
+msgid "When placed an order"
+msgstr ""
+
+#: includes/settings.php:100
+msgid ""
+"When user place an order then which life stage you want to choose for a "
+"contact( default : Opportunity )"
+msgstr ""
+
+#: includes/settings.php:106
+msgid "When becomes a paid user"
+msgstr ""
+
+#: includes/settings.php:110
+msgid ""
+"When user place an order and the order is completed then which life stage "
+"you want to choose for a contact( default : Customer )"
+msgstr ""
+
+#: includes/settings.php:116
+msgid "Default Contact Owner"
+msgstr ""
+
+#: includes/settings.php:120
+msgid "Default contact owner for contact."
+msgstr ""
+
+#: includes/settings.php:143
+msgid "Enable Accounting Sync"
+msgstr ""
+
+#: includes/settings.php:147
+msgid "Sync all accounting data with WooCommerce order"
+msgstr ""
+
+#: includes/settings.php:152
+msgid "Payment account"
+msgstr ""
+
+#: includes/settings.php:162
+msgid "Product account"
+msgstr ""
+
+#: includes/settings.php:166
+msgid "Invoice or payment items/line-item account"
+msgstr ""
+
+#: includes/settings.php:172
+msgid "Shipping account"
+msgstr ""
+
+#: includes/settings.php:176
+msgid "Shipping account for invoice"
+msgstr ""
+
+#: includes/settings.php:191
+msgid "WooCommerce data sync"
+msgstr ""
+
+#: includes/views/wc-sync.php:42
+msgid "WooCommerce data Synchronization"
+msgstr ""
+
+#: includes/views/wc-sync.php:44
+msgid ""
+"This synchronize process sync your existing WooCommerce order with ERP "
+"WooCommerce related data."
+msgstr ""
+
+#: includes/views/wc-sync.php:45
+msgid "Don't worry, any existing orders will not be deleted."
+msgstr ""
+
+#: includes/views/wc-sync.php:46
+msgid "Don't close this window, until the process has been completed"
+msgstr ""
+
+#: includes/views/wc-sync.php:55
+msgid "Synchronize Data"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP ERP - WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://impaktt.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WooCommerce integration with CRM and Accounting modules in ERP"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "IMPAKTT"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://impaktt.com/"
+msgstr ""
